@@ -12,7 +12,7 @@
 ## Dates
 - Underlying Rule: Raymond du Puy, master c. 1120–1160 (King's span). Riley-Smith: cannot be dated precisely, possibly 1130s, confirmed before 1153; clauses 16–19 later additions; known text from 1185 (see research/references/001-…md).
 - Witness used: English translation of 1933/34, reprint of unknown year.
-- Latin Rule: Delaville Le Roulx, Cartulaire I (1894), doc. 70 per a secondary source (not opened). Which Cartulaire document holds King's French text: unverified.
+- Latin and Old French Rule: Delaville Le Roulx, *Cartulaire* I (1894), doc. 70, pp. 62–68, printed in parallel (French from Vatican ms. 4852, Latin from the Aarau copy of 1253), dated there [1125–1153]. Opened 2026-11-06 as OCR text (archive.org item cgohvol1); King's numbering and rubrics follow the French text. See research/references/002-cartulaire-i-70-comparison.md.
 
 ## Completeness and access
 - The djvu.txt was complete for pp. 20–28 but had line-level OCR losses (§5, §9, §10, §12, §13). All of pp. 20–28 were read against page images (PDF pages 40–50 at 90 dpi); see apparatus in source/transcription/000-rule-en-king-1934.md.
@@ -20,4 +20,4 @@
 - Not checked: King's own historical introduction beyond p. 2–3; page images outside pp. 20–28.
 
 ## Rights (important)
-King died in the 20th century and the book was published 1934; its copyright status in the Czech Republic or elsewhere has **not** been established. The Internet Archive item is a community upload, not a statement of public-domain status. Therefore `source/original/` holds only a pointer and hashes, and `source/transcription/` only the Rule extract (≈2,300 words) needed for checking. A Czech translation of King's wording is a derivative work; a rights decision is required before publication (see review/unresolved-issues.md).
+Sir Edwin James King (1877 – 11 July 1952, per secondary sources; see research/references/003 V5); the book was published 1934. If the death date is right, the text is public domain in the UK and the Czech Republic since 1 January 2023, but may be protected in the US until the end of 2029. The death date has not yet been confirmed from a primary record. The Internet Archive item is a community upload, not a statement of public-domain status. Therefore `source/original/` holds only a pointer and hashes, and `source/transcription/` only the Rule extract (≈2,300 words) needed for checking. A Czech translation of King's wording is a derivative work; a rights decision is required before publication (see review/unresolved-issues.md).

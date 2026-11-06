@@ -1,0 +1,772 @@
+UNCORRECTED OCR of Delaville Le Roulx, Cartulaire général de l'ordre des Hospitaliers, vol. I (Paris 1894), doc. 70, pp. 62-68.
+Source: Internet Archive item cgohvol1, file 'CGOH vol 1_djvu.txt' (SHA-256 e8b366c87b4a2c58cffdf3e59da88f9f18d0a2eaaa0e36fa5b29bf5251fe757d), lines 35799-36565, extracted 2026-11-06.
+The edition prints the Old French (left column, from Vatican ms. 4852) and the Latin (right column, from the Aarau copy of 1253) side by side; the OCR interleaves the columns page by page. OCR errors are NOT corrected here; the readings used in research/references/002-cartulaire-i-70-comparison.md were checked by eye against this text only, not against page images.
+The 1894 edition is in the public domain (editor died 1911).
+
+70.  —  [1125-1153] 
+
+Raymond  du  Puy,  grand-maitre  de  UHopital ,  promulgue  la  regie  de  Vordre, 
+
+Socuces  :  Texte  francais:  Dijon,  Arch.  de  la  C6tc-d’Or,  II,  n°  111,  f.  6  6  (xv°  s.);  Londres, 
+Musee  britann.,  Galba  A.  17,  f.  59 b.  (xiv9s.,  mauv.  ctat) ;  Marseille,  Arch.  des  B.-du-Rh.,  II.  55 
+(rouleau,  xiu®  s.) ;  Montpellier,  Bibi,  de  Ia  Fac.  de  m<5decine,  ms.  372,  f.  3  b  (xiv°  s.);  Paris, 
+Bibi,  nat.,  fonds  fran$.,  6049,  f.  11  (xiv°  s.) ;  1978,  f.  17  (xiv®  s.) ;  1979,  f.  20  (xiv6  s.);  13531, 
+f.  3  (xrv6  s.);  1079,  I’.  19  (xv°s.);  1080,  f.  10  b  (xv6  s.) ;  17255,  f.  3  b  (xv®  s.);  Romc,  Bibi,  du 
+Vatican,  ms.  4852,  f.  3  (fin  du  xm*  s.);  3136,  f.  27  (xiv6s.);  Turin,  Bibi,  de  1’Universite,  LV,  45, 
+f.  10  b  (xiv®  s.)  —  Texte  latin :  Aarau,  Arcli.  eant.,  command.  de  Leuggern,  n°  7  (copic  de  1253); 
+Flore n ce,  Bibi,  nat.,  cl.  XXXII,  ms.  37,  f .  3  b  (xv°  s.);  Malte,  Arch.  de  1’Ordre,  div.  I,  vol.  69, 
+f.  1  (xiv®  s.)  et  bullaire  XP,  div,  VII,  vol.  1118,  f.  256  (xvi°  s.,  auj.  lacune  a  ce  folio);  Marseille, 
+Arch.  des  B.-du-Rh.,  II.  49  (copie,  xvn®  s.),  —  Texte provencal :  Aulan,  Bibi,  du  marquis  d’Aulan, 
+19  6  (xiv®  s.) ;  Toulouse,  Arch,  dc  la  H.-Gar.,  cart.  de  S.  Jean,  n®  3,  f.  2  (xv°  s.);  n9  4,  f,  4  6 
+(xv6  s.) ;  n®  5,  f.  1  (xiv®  s.);  n°  6,  f.  26  6  (xiv°  s.);  Aries,  Arch.  comm.,  GG.,  f.  40  (fin  du  xiv®  s,). 
+—  Texte  catalan  :  Alcala  de  Renares,  Arch.  geli.  centr.,  ordre  de  S.  Jean,  cartul,  n®  1,  f.  56 
+(xiv®  s.) ;  n°  2,  f.  1  (xv®  s.) ;  —  Toulouse,  Arch.  dc  la  H.-Gar.,  cartul.  de  S.  Jean,  n°  1,  f.  1  (xv®  s.) ; 
+Texte  ita  lien  :  Vienne,  Bihl.  imp.  roy . ,  ms.  3323,  f.  13  (xv6  s.).  —  Texte:  P.  A.  Paoli,  Deli’ 
+
+origine . ,  app.,  n°  xiv  (d’aprfes  le  texte  fra n$ .  du  ms.  Vatican  4852) ;  S.  Pauli,  Cod.  Dipl.,  I,  224 
+
+(d’apres  le  texte  latin  du  bullaire  XP  des  Archives  de  Malte). 
+
+
+Ceste  est  la  constitucion  trovee  par 
+frere  Raimont*.  —  En  nom  de  Deu,  je 
+Raimont,  serf  des  povres  de  Grist  et 
+garde  de  1’Ospital  de  Jerusalem,  dou 
+conseil  de  tout  le  chapistre,  clers  et  laiz 
+freres,  ai  est  abli  ces  eo  mandem  enz  en 
+la  maison  de  1’Ospital  de  Jerusalem. 
+
+1.  Coment  les  freres  doivent  faire  lor 
+profession.  —  En  p  rimes  comans  que 
+
+
+In  Dei  nomine8,  ego  Raymundus  ser¬ 
+vus  pauperum  Christi  et  custos  Hospita¬ 
+lis  Jerosolimitani,  cum  consilio  totius 
+capituli,  clericorum  et  laycorum  fratrum 
+statui  hec  precepta  et  statuta  in  domo 
+Hospitalis  Jerosolimitana. 
+
+In  primis  jubeo  ut  omnes  fratres,  ad 
+servitium  pauperum  venientes  tria,  que 
+
+
+1 .  Voir  pour  ia  determination  de  ces  dates  notre 
+travail  sur  les  Statuis  de  Vordre  de  Vllopital  de 
+S,  Jeim  de  Jirusalcm,  passim  ( Bihl.  de  VEc.  des 
+Ch xlviii  (1887),  341-56). 
+
+%*  Les  titres  imprimes  ici  en  italique  soni  ecrits  a 
+
+
+lencre  rouge  dans  ie  ms,  do  Vatican  n°  4852,  d*apres 
+lequel  nous  publions  ie  texte  frangais. 
+
+3,  Nous  publions  le  texte  latin  d’apr£s  le  manuscrit 
+des  archives  d’Aarau. 
+
+
+DE  SAINT  JEAN  DE  JERUSALEM. 
+
+
+63 
+
+
+touz  [les  frerosj,  au  servise  des  povres 
+venans,  tiegnent  iii  choses  au  1’ayde  de 
+Deu,  lesqueles  sont  promises  a  Deu.  Ce 
+estasavoir:  chaeste,  ethobedience;  ce  est 
+quelconque  chose  est  comandee  a  eaus 
+de  lor  maistres,  et  vivre  sanz  propre; 
+quar  Dex  requerra  ces  iii  choses  d’eaus 
+au  darrain  jugem  e  nt. 
+
+2.  Qucl  chose  les  freres  doivent  deman¬ 
+der  de  dette.  —  Et  ne  demandent  plus  de 
+dcttc,  se  non  le  pain  et  1’aigue  et  laveste- 
+hure ;  lesquelz  choses  sont  promises  a 
+eaus.  Et  la  vestehure  soit  humble,  quar 
+les  povres  de  nostre  Seignor,  desquelz 
+nos  confessons  estre  sers,  vont  nuz.  Et 
+orz  et  laide  chose  est  au  serf  que  il  soit 
+orgucillous,  et  son  Seignor  soit  humble. 
+
+3.  De  Voncste  de  freres,  et  dou  servise 
+des  iglises,  et  de  la  recepcion  des  mala - 
+des.  ■ —  Acertes  establie  chose  est  que 
+lor  alehure  soit  honeste  en  1'iglise,  et  Ia 
+conversacionsoitcovenable;  c’cst  asaver 
+que  les  clers  diaques  et  soudiaques  ser¬ 
+vent  au  prestre  a  1’autier  en  blans  vesti- 
+rnenz;  et  [se]  necessaire  chose  sera  autre 
+clere  face  ce  servise,  et  Iumiere  soit  touz 
+jors  de  jor  et  de  nuit  en  Tiglise,  et  le 
+prestre  doit  aler  en  blans  vestimenz  h 
+visiter  les  malades  en  portant  relegiou- 
+sement  le  cors  de  nostre  Seignor,  et  le 
+diaque  ou  le  soudiaque,  ou  au  mains 
+aco  Ii  te  voise  devant  portant  la  lanterne 
+aveuc  chandoile  alumee  et  Eesponge 
+aveuc  1’aigue  benoite. 
+
+4.  Coment  les  freres  aler  et  ester  doi- 
+vent.  —  Encores,  quant  les  freres  yront 
+par  les  cytez  et  par  les  chasteaus,  ne 
+voisent  soul,  mais  ii  ou  iii  ensemble,  et 
+n’en  yront  aveuc  ceaus  qu’il  vodront, 
+mais  aveuc  ceaus  que  lor  maistre  co- 
+mandera;  et  quant  seront  venus  Ia  ou  ii 
+vodront  aler,  soient  ensemble  en  alehure 
+et  en  habit.  Item  nide  chose  soit  faite  en 
+touz  lor  m  o  verne  nz  laquei  e  offende  le 
+regar t  d’aucun,  mais  qui  demoustre  lor 
+saintete.  Encores  quant  il  seront  en  iglise 
+ou  en  maison,  ou  en  autre  leu  auquel  fe- 
+mes  soient,  gardent  lor  sapience  en  fyec, 
+ne  femes  lavent  lor  testes,  ne  lor  pies, 
+ne  facentlor  liz.  Nostre  Sires,  qui  habite 
+es  siens  sains,  les  garde  en  ceste  maniere. 
+
+
+promitunt  Deo  per  manum  sacerdotis  et 
+per  librum  teneant  cum  Dei  auxilio,  sci¬ 
+licet :  castitatem,  et  obedientiam,  hoc  est 
+quodeumque  precipitur  eis  a  magistris 
+suis,  et  sine  proprio  vivere;  quiahec  tria 
+requiret  Deus  ab  eis  in  ultimo  certamine. 
+
+Et  non  querant  amplius  ex  debito,  nisi 
+panem  et  aquam  atque  vestimentum;  que 
+eis  promituntur.  Et  vestitus  sit  humilis, 
+quia  Domini  nostri  pauperes,  quorum 
+servos  nos  esse  fatemur,  nudi  et  sordidi 
+incedunt.  Et  turpe  est  servo  ut  sit  super¬ 
+bus,  et  Dominus  ejus  humilis. 
+
+Constitutum  est  etiam  ut  in  ecclesia 
+sit  honestus  eorum  incessus,  et  conver¬ 
+satio  ydonca ;  scilicet  ut  clerici  ad  altare 
+cum  albis  vestibus  deserviant  presby¬ 
+tero  ;  diaconus  vel  subdiaconus,  et  si  ne¬ 
+cessitas  fuerit,  alius  clericus  hoc  idem 
+exerceat  officium;  et  lumen  die  noctuque 
+in  ecclesia  semper  sit;  et  ad  infirmorum 
+visitationem  presbyter  cum  albis  vesti¬ 
+bus  incedat,  religiose  portans  corpus 
+Domini,  et  diaconus  vel  subdiaconus 
+p recedat  vel  saltim  acolitus,  ferens  lan¬ 
+ternam  cum  candela  accensa  et  spongiam 
+cum  aqua  benedicta. 
+
+
+Iterum,  cum  ierint  fratres  per  civitates 
+et  castella,  non  eant  soli  set  duo  vel  tres, 
+nec  cum  quibus  voluerint  sed  cum  qui¬ 
+bus  magister  jusserit  ire  debent;  et  cum 
+venerint  quo  voluerint,  simul  stent  in 
+incessu ;  in  habitu  et  omnibus  motibus 
+eorum  nichil  fiat  quod  quisquam  offen¬ 
+dat  aspectum,  sed  quod  suam  doceat 
+sanctitatem.  Quando  etiam  fuerint  in 
+domo  aut  in  ecclesia  vel  ubicumque  fe¬ 
+mine  sint  invicem,  suam  pudicitiam  cus¬ 
+todiant,  nec  femine  capita  eorum  lavent 
+nec  pedes  nec  lectum  laciant.  Deus  enim 
+qui  habitat  in  sanctis  isto  modo  custo¬ 
+diat  eos,  amen. 
+
+
+64 
+
+
+CARTULAIRE  GENERAL  DES  IIOSPITALIERS 
+
+
+6.  Lesquelz  et  coment  doivcnt  aquerre 
+Ics  aumones.  —  E  neo  re  religio  uses  per- 
+sones  de  freres,  de  clers,  ou  de  laiz 
+voisent  a  querre  les  aumones  des  sains 
+poures ;  encore  quant  il  querront  ostel, 
+viegnent  a  1’iglise  ou  a  aucune  honeste 
+persone,  et  requierent  de  lui  en  charite 
+lor  viande,  et  rien  achatent  autrecliose, 
+Mais  se  il  ne  trovoient  qui  lor  donast  lor 
+despence,  si  achatent  amesureement  une 
+soule  viande  dont  il  puissent  vivre. 
+
+6.  Des  aumones  aquises  et  des  labours 
+des  maisons.  —  Encores  il  ne  doivent 
+reeoivre  ne  terre  ne  gage  de  1’aquest  des 
+aumones,  mais  le  rendent  a  lor  maistre 
+par  escrit;  el  le  maistre  le  mande  aveuc 
+son  escrit  as  povres  a  1’Ospital,  et  le 
+maistre  receive  de  toutes  les  hobedienees 
+la  tierce  partie  de  pain  et  de  viu,  et  de 
+toutes  norritures  ;  et  ce  qui  sera  sur- 
+plus  soit  ajouste  a  1’aumone,  et  le  mande 
+en  Jerusalem  as  poures  aveuc  son  escrit. 
+
+7.  Lesquelz  et  en  quele  maniore  doi¬ 
+vent  aler  a  la  predicacion.  —  Et  aucuns 
+freres,  de  quelque  hobedience  il  soient, 
+ne  voisent  a  preeschier  ne  a  ressevoir 
+les  cuilletes,  se  non  soulement  ceaus 
+lesquelz  le  chapistre  et  le  maistre  de 
+l’ig'lise  mandera.  Et  meismes  les  freres 
+qui  yront  h  eoncuillir  les  cuilletes  soient 
+recehu  en  quelque  hobedience  il  venront, 
+et  receivent  tele  viande  que  les  freres  ont 
+ordene  entreaus,  et  nule  autre  chose  ne 
+demandent.  Encores  portent  aveuc  soi  lu- 
+miere,  et,  en  quelque  maison  ilseronther- 
+bergie,faeent  ardoir  lumiere  devant  eaus . 
+
+8.  Des  dras  et  des  viandes  des  freres. 
+—  Denqui  endroit  nos  delTendons  que  les 
+freres  ne  ve  stent  dorenavant  dras  ysam- 
+bruns  ne  galembruns,  ni  pennes  sau- 
+vages,  ni  fustaines.  Encores  que  il  ne 
+maniucent  se  non  ii  fois  le  jor,  et  que  il 
+ne  maniucent  char  le  mecredi  ne  le  sa- 
+medi,  ne  de  la  septuagisme  jusque  pas- 
+ques,  se  non  ceaus  qui  sont  malades  ou 
+febles ;  et  onques  ne  gisent  nuz,  mais 
+vestusen  chemises  de  laine  ou  de  lin,  ou 
+en  autres  quelconques  vestimenz. 
+
+9.  Des  freres  en  fornication  chehuz. — 
+Mais  se  aucun  des  freres,  laquele  chose 
+onques  n’aviegne,  les  pechiez  requerans 
+
+
+Et  in  sanctorum  pauperum  querendo 
+helemosinas,  religiose  persone  fratrum 
+de  clericis  et  de  laycis  incedant,  et  cum 
+hospitium  quesierint,  ad  ecclesiam  vel 
+ad  aliquam  honestam  personam  veniant, 
+et  ex  caritate  ab  ea  victum  petant,  et  nil 
+aliud  emant.  Si  vero  non  invenerint  qui 
+tribuant  eis,  mensurate  emant  unum  so¬ 
+lum  cibum  unde  vivere  possint. 
+
+Et  ex  inquisitione  helemosinarum  nec 
+terram  nec  pignus  recipiant,  sed  suo 
+magistro  per  scriptum  reddant,  ac  etiam 
+magister  cum  suo  scripto  pauperibus 
+ad  Hospitale  transmitat,  et  de  omnibus 
+obedientiis  terciain  partem  de  pane  et 
+vino  et  de  omni  nutrimento  magister 
+suscipiat;  et  si  superaverit,  hoc  quod  am¬ 
+plius  fuerit  ad  helemosinam  conjungat, 
+et  Jerosolimis  cum  suo  scripto  paupe¬ 
+ribus  mitat. 
+
+Et  non  eant  ad  predicacionem  aliqui 
+fratrum  de  ullis  obedientiis  ad  collectas 
+colligendas,  nec  solummodo  illi  quos 
+capitulum  et  magistri  ecclesie  miserint. 
+Et  ipsi  sumpti  fratres,  qui  exierint  ad 
+collectas  colligendas,  in  quam  cumque 
+obedientiam  venerint  recipiantur,  et  ac¬ 
+cipiant  talem  victum  qualem  fratres  inter 
+se  dispensaverint,  et  aliam  vexationem 
+ibi  non  faciant.  Lumen  secum  portent, 
+et  in  quacumque  domo  hospitati  fuerint 
+nocte,  ante  se  lumen  ardere  faciant. 
+
+Deinde  pannos  ysambrunos  et  galam- 
+brunos,  ac  fustania,  et  pelles  silvestres 
+omnino  prohibemus  ne  amodo  induant 
+fratres.  Et  non  comedant  nisi  bis  in  die, 
+et  quarta  feria  et  die  sabbati,  et  a  septua¬ 
+gesima  usque  in  pascha,  carnes  non  co¬ 
+medant  preter  eos  qui  sunt  inlirmi  et 
+inbecilles;  et  nunquam  nudi  jaceant,  sed 
+vestiti  camisiis  lineis  vel  laneis,  aut  aliis 
+quibuslibet  vestimentis. 
+
+Ac  si  aliquis  frater,  quod  utinam  num- 
+quam  eveniat,  peccatis  exigentibus  ceci¬ 
+derit  in  fornicationem,  si  occulte  pecca- 
+
+
+DE  SAINT  JEAN  DE  JERUSALEM. 
+
+
+charra  en  fornication,  se  il  pecha  amu- 
+ceement,  face  sa  penance  amuceemcnt, 
+et  penitcnce  covenable  lui  soit  enjointe; 
+et  se  il  sera  publiez  et  repris  par  cer- 
+tainete  paleisement  en  cele  vile  en  la- 
+quele  il  aura  fait  le  pechie,  le  jor  de  di- 
+menche,  apres  les  messes,  quant  le 
+peuple  sera  eissu  hors  de  Figlise,  veanz 
+trestoz  de  son  maistre  ou  de  aulres  fre- 
+res  auquel  le  maistre  comandera,  soit 
+batu  durement,  ot  tormento  aveuc  dures 
+verges  ou  eorroies,  ou  soit  boutez  hors 
+detoute  nostre  eompaignie  ;  et  en  apres, 
+se  nostre  Sires  enluminera  le  cuer  de 
+celui,  et  reto rn era  a  la  inaison  des  pou- 
+res,  et  reconoistra  soi  coulpable  et  pe- 
+cheor  et  trespasseor  de  la  loy  de  Deu,  et 
+prometra  amendement,  il  soit  recehu  et 
+soit  tenu  par  i  an  entier  en  leu  d’estran- 
+gier,  et  les  freres  voient  en  cest  espace 
+de  tens  la  soue  satisfaction,  et  apres  si 
+fucent  ce  que  lor  semblera  bon. 
+
+10.  Des  freres  tenganz  et  feraris  l’un 
+Vautre. —  Encore  se  aucun  frere  autentie 
+aveuc  autre  frere,  et  le  procureor  de  la 
+maison  aura  ehu  la  clamor,  la  penance 
+soit  tele:  il  gelmnera  par  vu  jors  le  me- 
+credi  et  le  venredi  en  pain  et  en  aigue, 
+et  mangera  en  terre  sanz  table  et  sanz 
+toaille.  Et  se  le  frere  ferra  autre  frere,  il 
+gelmnera  xl  jors.  Et  se  il  se  partira  de 
+la  maison  ou  dou  maistre  auquel  il  sera 
+somnis  por  sa  propre  volente,  sanz  la 
+volente  de  son  maistre,  et  apres  ce  re¬ 
+tor  ner  a,  il  mangera  xl  jorz  en  terre,  et 
+gehunera  le  mecredi  et  le  venredi  en 
+pain  et  en  aigue ;  et  par  tant  de  tens  com 
+il  a  este  dehors  soit  tenu  en  leu  d’estran- 
+gier,  se  par  aventure  le  tens  n  en  estoit 
+si  lonc  qu’il  covenist  que  le  chapistre 
+1’atenprast. 
+
+11.  De  la  scilence  des  freres.  —  En- 
+cores  a  la  table,  sicom  1’apostre  dit', 
+chascun  man iuce  son  pain  en  silcnce, 
+et  ne  boive  apres  complie.  Eneore  les 
+freres  tiegnent  scilence  en  lor  Iiz. 
+
+12.  Des  freres  malcmcnt  portans.  — 
+Et  se  aucun  frere  ne  se  portera  bien, 
+et  sera  amonestez  et  chastiez  de  son 
+
+1.  S.  Paul,  Thess.,  III,  ^  12. 
+
+
+6b 
+
+verit,  occulte  peniteat,  et  jungatur  sibi 
+penitencia  congrua;  si  autem  conpre- 
+hensus  et  publicatus  pro  certo  fuerit  in 
+eadem  villa  in  qua  facinus  perpetraverit, 
+die  dominica  post  missas,  quando  popu¬ 
+lus  ab  ecclesia  egressus  fuerit,  videnti¬ 
+bus  cunctis  exuatur,  et  a  magistro  suo 
+clerico,  si  clericus  fuerit  qui  peccaverit, 
+verberetur,  si  vero  laycus  fuerit  a  cleri¬ 
+co  vel  ab  eo  cui  clericus  injunxerit,  cor¬ 
+rigiis  vel  virgis  durissime  ilagelletur  ct 
+verberetur,  ac  de  omni  societate  nostra 
+expellatur;  postea  vero  si  Deus  cor  illius 
+illustraverit,  et  ad  domum  pauperum 
+reversus  fuerit,  atque  se  reum  et  pecca¬ 
+torem  atque  legis  Dei  transgressorem 
+confessus  fuerit,  et  emendationem  pro¬ 
+miserit,  recipiatur  et  penitentia  digna 
+sibi  inponatur,  et  per  annum  integrum 
+in  loco  extranei  teneatur,  et  in  hoc  spatio 
+videant  fratres  satisfactionem  suam,  pos¬ 
+tea  faciant  quod  melius  sibi  videbitur. 
+
+Aut  si  frater  altercatus  cum  altero 
+fuerit  fratre,  ct  clamorem  procurator  do¬ 
+mus  habuerit,  talis  sit  penitentia:  septem 
+diebus  jejunet  quarta  et  sexta  feria,  in 
+pane  et  aqua,  comedens  in  terra  sine 
+mensa  et  manutergio.  Et  si  percusserit, 
+quadraginta.  Et  si  recesserit  a  domo  vel  a 
+magistro  cui  commissus  fuerit  propria 
+voluntate,  sine  ejus  voluntate,  et  postea 
+reversus  fuerit,  quadraginta  diebus 
+manducet  in  terra,  jejunans  quarta  et 
+sexta  feria  in  pane  et  aqua,  et  per  tan¬ 
+tum  tempus  permaneat  in  loco  viccarii 
+extranei  quantum  foris  extitit,  nisi  tam 
+prolixum  fuerit  tempus  ut  capitulo  con¬ 
+veniat  temperari. 
+
+
+Ad  mensam  etiam,  sicut  apostolus  ait, 
+unusquisque  panem  suum  cum  silentio 
+manducet,  et  post  conpletorium  non 
+bibat  nisi  puram  aquam.  Et  in  lectis  fra¬ 
+tres  silentium  teneant. 
+
+Aesi  aliquis  frater,  non  bene  se  habens, 
+a  magistro  suo  vel  ab  aliis  fratribus  bis 
+atque  ter  correptus  fuerit  et  ammonitus, 
+
+
+9 
+
+
+G6 
+
+
+CARTULA1RE  GENERAL  DES  HOSPITALIERS 
+
+
+maistre  ou  des  autres  freres  ii  fois  ou  m, 
+et,  le  deable  atisant,  nevodra  soi  amender 
+ne  hobeyr,  il  soit  mandez  a  nos  h  pie 
+aveuc  la  chartre  contenant  son  pechie; 
+et  toutevoies  procuration  Ii  soit  donee 
+petite  ensi  que  il  puisse  venir  a  nos,  et 
+nos  le  chastierons ;  et  cncore  nui  frere 
+bate  les  sergens  commis  a  lui  por  nule 
+faute  ou  pechie  qu’il  face,  mais  le  mais¬ 
+tre  de  la  maison  et  des  freres  preigne 
+la  venjance  par  devant  toz;  mais  tote- 
+voies  la  justise  de  la  maison  soit  tenue 
+dou  tout. 
+
+13.  Des  freres  trovez  aveuc  propr[iete\ . 
+—  Et  se  aucuns  des  freres  de  propre 
+avait  en  sa  mort  propriete,  et  il  Laura 
+celee  de  son  maistre,  et  apres  sera  tro- 
+vee  sur  lui,  cele  inonee  soit  liee  a  son 
+coi,  et  soit  menez  nuz  par  1’Ospital  de  Je- 
+rusalem  ou  par  les  autres  maisons  ou  il 
+demore,  et  soit  batus  durement  d’un  au- 
+tre  frere,  et  face  penance  xl  jorz,  et  ge- 
+hunera  le  mecredi  et  le  venredi  en  pain 
+et  en  aigue. 
+
+
+Ii.  Qucl  office  Von  doit  faire  \jJor  les\ 
+freres  mors. — En  sur  que  tout  nos  coman- 
+dons  i  establiment  estre  fait,  lequel  est 
+molt  necessaire  ii  nos  touz,  et  mandon  en 
+comandant  que  de  touz  les  freres  qui 
+muerent  en  voz  hobedienccs  xxx  messes 
+soient  chantees  por  l’arme  de  lui ;  et  en 
+la  premiere  messe  ehascun  des  freres 
+qui  present  sera  offrira  une  chandoile 
+aveuc  i  denier.Lcsquels  deniers,  tant  com 
+il  se[ron]t,  soient  donez  por  Deu  as 
+[pourjes ;  et  le  prestre  qui  chantera  les 
+messes,  se  il  n’est  de  la  maison,  ait  en 
+hobedience  procuration  en  ces  jors  ;  et 
+parfait  Lofiice,  le  maistre  face  audit  pres¬ 
+tre  charite,  encore  touz  les  vestimenz 
+dou  frere  mort  seent  donez  a  povres; 
+encores  les  freres  prestres,  qui  messes 
+chanteront,  f acent  pricres  por  Lar  me  de 
+Iui  a  nostre  seignor  Jhesu  Crist,  et  chas- 
+cun  des  clers  chante  le  sauiier,  et  chas- 
+cun  des  laiz  cl  pater  noster.  Encores  et 
+de  touz  autres  pechiez  et  choses  et  cla- 
+
+
+diabolo  instiganto,  se  emendare  noluerit, 
+nobis  m  itatur  pedestris  cum  carta  conti¬ 
+nente  suum  delictum;  tamen  procuratio 
+rara  ei  donetur  ut  ad  nos  venire  possit, 
+eumque  corrigemus;  et  nullus  servientes 
+sibi  commissos  percutiat,  sed  magister 
+domus  et  fratres  coram  omnibus  vindic¬ 
+tam  accipiant;  tamen  justitia  domus  om¬ 
+nino  teneatur. 
+
+
+At  si  aliquis  fratrum  de  proprio  di¬ 
+missus  in  morte  sua  proprietatem  ha¬ 
+buit,  et  vivens  magistro  suo  non  osten¬ 
+derit,  nullum  divinum  officium  pro  eo 
+agatur,  sed  quasi  excommunicatus  se¬ 
+peliatur;  et  si  vivens  incolumis  proprie¬ 
+tatem  habuit  et  magistro  suo  celaverit, 
+ac  postea  super  eum  inventa  fuerit,  ipsa 
+peccunia  ad  collum  ejus  ligetur  et  per 
+Hospitale  Jerosolimitanum  vel  per  alias 
+domos  ubi  permanserit  ducatur  nudus, 
+et  verberetur  a  clerico  si  clericus  est,  si 
+vero  laycus,  ab  aliquo  fratre  verberetur, 
+et  quadraginta  dies  jejunans  quarta  et 
+sexta  fer  ia  in  pane  et  aqua. 
+
+Quin  etiam,  quod  valde  nobis  necessa¬ 
+rium  est,  omnibus  vobis  statutum  fieri 
+precipimus  et  precipiendo  mandamus  ut 
+de  omnibus,  viam  universe  carnis  ingre- 
+dientibus,  in  omnibus  obedientiis  qui¬ 
+buscumque  obierint,  triginta  diebus 
+misse  pro  ejus  anima  cantentur  ;  in  pri¬ 
+ma  missa  unusquisque  fratrum  qui  ade¬ 
+rit  candelam  cum  nummo  offerat.  Qui  vi¬ 
+delicet  nummi,  quotcumque  sint,  paupe¬ 
+ribus  erogentur,  et  presbiter  qui  missas 
+cantaverit,  si  non  est  de  domo,  procura¬ 
+tionem  hiis  diebus  habeat,  et  peracto 
+officio  magister  sibi  caritatem  faciat,  et 
+omnia  indumenta  fratris  defuncti  pau¬ 
+peribus  dentur  ;  fratres  vero  sacerdotes, 
+quando  missas  cantaverint  pro  ejus  ani¬ 
+ma, orationes  fundant  ad  dominum  Jesum 
+Christum,  et  clericorum  unusquisque 
+unum  cantet  psalterium,  lay  eorum  autem 
+cl  paternoster.  Et  de  omnibus  aliis  pec¬ 
+catis  et  rebus  et  clamoribus  in  capitulo 
+judicent  ct  discernant  judicium  rectum. 
+
+
+DE  SAINT  JEAN  DE  JEKUSALEM. 
+
+
+07 
+
+
+mors  jugent  et  esgardent  en  chapistre 
+droit  jugement. 
+
+15.  Coment  ces  choses,  qui  ci  sont 
+dites,  sont  comandees  fermement  d  garder. 
+—  Toutes  ces  choses,  sieom  nos  avons 
+dit  devant,  comandons  et  ordenons  de 
+couiandementde  la  partie  de  Deu  omni- 
+potent,  et  de  la  benehuree  Marie,  et  dou 
+benehure  saint  Johan,  et  des  povres, 
+que  cestes  choses  soient  tenues  aveuc 
+soverain  estude. 
+
+16.  Coment  les  seignors  malades  doi- 
+vent  estre  recehuz  et  serviz.  —  Et  en 
+cole  hobedience  en  laquele  le  maistre 
+et  le  clmpistre  de  1’Ospital  comandera 
+quant  le  malade  venra  la,  ensi  soit 
+recehu ,  et  soit  cumenie  relegiouse- 
+ment,  confesse  premierement  ses  pe- 
+chiez  au  prestre,  et  apres  soit  portez  au 
+Iit,  et  ileuc  aussi  com  sires  selonc  le 
+pooir  de  la  maison,  chascun  jor  avant 
+que  les  1'reres  voisent  mangier,  soit  re- 
+fait  de  viande  charitablement ;  encore 
+en  toz  les  dimenches  1’epistre  et  1’evan- 
+gile  soient  chantez  en  cele  maison,  et  la 
+maison  soit  arosee  au  la  procession 
+aveuc  aigue  benoite.  Encore  se  aucun 
+des  freres,  qui  tienent  hobediences  par 
+di  verses  terres,  venans  a  aucune  persone 
+secui  iere  en  revelant  foi,  donant  les  mo- 
+noies  des  povres,  que  eeaus  facent  les 
+diz  freres  regner  par  lor  force  contre  lor 
+maistre,  lelz  freres  soient  hors  getez  de 
+toute  la  compaignie. 
+
+17.  En  quel  maniere  les  freres  sont  a 
+corrigier  des  freres.  —  Encore  se  n  ou 
+plus  freres  seront  ensemble,  et  l’un 
+d’eaus  se  portera  outrajousement  en 
+vivant  malement,  1’autre  des  freres  ne 
+le  doit  pas  diffamer  ne  au  peuple  ne  au 
+prior,  inais  premierement  le  chastie  par 
+soi  meisme,  et,  seilne  se  vodra  chastier, 
+ajouste  aveuc  soi  ii  ou  hi  freres  &  lui 
+chastier.  Et  se  il  s’amendera  esjoyr  s’en 
+doivent ;  mais  se  i  1  ne  se  veaut  amender, 
+adonc  ii  es  erivans  la  coulpe  dou  frere, 
+et  la  mande  au  maistre  secretement,  et 
+selont  que  le  maistre  et  le  chapistre 
+comanderont  de  lui  ensi  soit  fait. 
+
+18.  Coment  Vun  frere  doit  accuser 
+Vautre  frere.  —  Nui  frere  accuse  1’autre 
+
+
+Et  hec  omnia,  uti  ut  supra  scripsimus, 
+exparte  Dei  omnipotentis,  et  beate  Marie, 
+et  beati  Johannis,  et  pauperum  precipi- 
+mus  ut  cum  summo  studio  ita  per  omnia 
+teneantur. 
+
+
+Et  in  ea  obedientia  ubi  magister  IIos 
+pitalis  concesserit,  cum  venerit  ibi  infir¬ 
+mus,  ito  recipiatur,  primum  peccata  sua 
+presbitero  confessus  religiose,  commu¬ 
+nicetur,  et  postea  ad  lectum  deportetur, 
+et  ibi  quasi  dominus  secundum  posse 
+domus  omni  die,  antequam  fratres  eant 
+pransum,  caritative  reficiantur,  et  in 
+cunctis  dominicis  diebus  epistola  et 
+evangelium  in  ea  domo  cantetur,  et  cum 
+processione  aqua  benedicta  aspergatur. 
+Item  si  quis  fratrum,  qui  obedientias  per 
+diversas  terras  tenent,  ad  quamlibet  se- 
+cularein  personam  pecunias  pauperum 
+dederit,  ut  cum  per  suam  vim  contra  ma- 
+gistrum  suum  et  fratres  regnare  faceret, 
+ab  universa  societate  fratrum  prohi- 
+ciatur. 
+
+
+Et  si  duo  vel  amplius  fratres  insimul 
+fuerint,  et  unus  illorum  nequiter  male 
+vivendo  se  habuerit,  alter  frater  non  eum 
+diffamare  debet  neque  populo  neque 
+priori,  sed  primum  per  se  ipsum  casti¬ 
+gare  eum,  etsi  se  noluerit  castigare,  ad¬ 
+hibeat  secui u  duos  vel  tres  ad  eum  cas¬ 
+tigandum.  Etsi  se  emendaverit  inde  gau¬ 
+dere  debet;  si  autem  emendare  noluerit, 
+tunc  culpam  suam  scribens  secrete  initat 
+magistro,  et  secundum  hoc  quod  magis¬ 
+ter  jusserit  de  eo  fiat. 
+
+
+Atque  ullus  fratrum  alium  fratrem 
+suum  non  accuset  nisi  bene  posset  pro- 
+
+s. 
+
+
+CARTULAIRE  GENERAL  DES  HOSPITALIERS 
+
+
+G8 
+
+frere  s:il  ne  puet  bien  prover ;  et  se  ii 
+1’acusera  et  prover  ne  le  porra,  il  n’en 
+est  frere. 
+
+19.  Que  les  freres  portent  en  lor  piz  le 
+signe  de  la  croiz.  —  Encore  touz  les 
+freres  de  toutes  les  liobcdiences,  qui 
+desoranavant  se  offriront  a  Deu  et  au 
+saint  Hospital  tle  Jeru salem,  portent  la 
+croiz  en  lor  chapes  et  en  lor  manteaus, 
+a  1  onor  de  Deu  et  de  la  sainte  Croiz 
+devant  lor  piz,  que  Deu  par  celui  confa- 
+non,  foy,  euvre,  et  hobedience  nos  gart 
+et  deflende  en  arme  et  en  cors  aveuc 
+touz  noz  bienfaitours  crestiens  de  la 
+poeste  dou  deable  en  ce  siecle  et  en 
+lautre.  Amen. 
+
+
+bare;  si  fecerit,  ipse  frater  bonus  non 
+est,  et  eandem  penam  sustineat  quam 
+accusatus,  si  probari  posset,  sustineret. 
+
+Item  omnes  fratres  omnium  obedien- 
+tiarum,  qui  nunc  vel  in  antea  offerunt  se 
+Deo  et  sancto  Hospitali  Jerosolimitano, 
+cruces  ad  honorem  Dei  et  sancte  Crucis 
+ejusdem  in  cappis  et  in  mantellis  secum 
+defferant  ante  pectus,  ut  Deus  per  ipsum 
+vexillum  et  fidem  et  operationem  et  obe- 
+dientiam  nos  custodiat,  et  a  diaboli  po¬ 
+testate  nos  in  hoc  et  in  futuro  seculo 
+deffendat  in  anima  et  in  corpore  simul 
+cum  omnibus  nostris  benefactoribus 
+Christianis.  Arnen. 
+
+
+71.  —  20  octobre  1125. 
+
+Bernard,  cvique  de  Nazareth ,  exempte  VHopital  de  Jerusalem  du  paiement  des 
+dimes  dans  son  diocese. 
+
+Source  :  Multe,  Arch.  de  1’ordre,  div.  I,  vol.  1,  n°  13  (orig.).  —  Texte:  Pauli,  Cod.dipL,  I,  8. 
+
+In  nomine  sancte  et  individue  trinitatis,  patris  et  filii  et  spiritus  sancti.  Ego 
+Bernardus,  Dei  gratia  Nazarenus  episcopus,  universis  cultoribus  fidei  catholice 
+pacis  et  salutis  prosperitate  gaudere.  Ad  summe  beatitudinis  eternitatem  tendimus 
+quando  adimplere  tota  virtute  nitimur  quod  in  ewangclico  scriptum  legimus  : 
+«  Date  elemosinam  et  omnia  munda  sunt  vobis.  »'  Hancego  emundationem  intellectu 
+puro  obtinere  desiderans,  pro  statu  nostre  ecclesie,  pro  me  ipso,  pro  grege  michi 
+commisso  Hospitali  fratrum  pauperum  quod  est  Iherusalem  dono,  eique  eternaliter 
+possidendum  concedo  omnem  videlicet  decimam,  tam  de  casalibus  quam  de  villa- 
+ms,  sive  de  omnibus  ceteris  rebus  quas  supradictus  Hospitalis  habet  in  toto  nostro 
+episcopatu.  Preterea  tres  villanos,  qui  erant  juris  nostre  ecclesie,  ei  ampliando  con¬ 
+cessi  quatinus  usibus  ejus  in  sempiternum  cederent,  miehique  et  omnibus  amicis 
+nostris,  tam  clericis  quam  laicis,  remedium  eterne  beatitudinis  fierent.  Hujus  autem 
+descriptionis  nostre  pagina  in  ecclesia  nostra,  canonicis  regularibus  et  archidiaco- 
+no  audientibus  etassentientibus,  recitari  feci,  sigillique  mei  impressione  insignitam 
+corroborari.  Si  quis  autem  contra  hanc  donationem  nostram  ire  voluerit,  et  aliquo 
+modo  infringere  temptaverit,  a  perceptione  corporis  domini  nostri  Ihesu  Christi 
+alienus  liat,  donec  resipiscat  et  ad  satisfactionem  veniat.  Actum  est  autem  hoc  xm 
+kalendas  novembris,  anno  ab  incarnatione  Domini  m  c  xx  v,  indictione  mi,  do¬ 
+mino  A  er  mundo  Iherosolimitano  Dei  gratia  patriarcha,  et  Balduino  secundo  rege 
+faventibus.  S.  Willelmi,  prioris  S.  Marie.  S.  Adalelmi,  archidiaconi.  S.  Basilii. 
+S.  Gaufredi.  S.  Petri.  S.  Odonis.  S.  Willelmi,  subdiaconi.  S.  domni  Willelmi  Tibe- 
+nadis.  S.  Guidonis  do  Miler.  S.  Martini  Nazareni.  S.  Girardi,  militis.  S.  Archim- 
+iicdis.  S.  Robor ti,  militis  Templi.  S.  Saucii,  diaconi,  qui  hanc  cartam  scripsit. 
+
+
+i .  Luc,  M ,  ^41. 
+
+
+DE  SAINT  JEAN  DE  JERUSALEM. 
+
+
+69 
+
+
+72.  —  9  decembre  1125. 
+
+Aceor d  entre  Philippe,  chantre  de  1’eglise  de  Tripoli,  et  les  Hospitaliers,  repre - 
+sentes  par  le  grand-maitre  Raymond  du  Puy,  relati f  aux  dimes  des  biens  que  Vordre 
+posshde  dans  ce  dioebse,  et  au  paiement  desquelles  Veveque  de  Tripoli  renonce. 
+
+Souuce  :  Malte,  Arch.  de  l’ordre,  div.  I,  vol.  1,  n°  12  (orig.)*.  —  Irxte  :  Pauli,  Cod.  dipl. ,  I,  7. 
+
+Per  presens  scriptum  pateat  universis  presentibus  et  futuris  quod,  cum  questio 
+verteretur  inter  nos  magistrum  Phylippum,  cantorem  Tripolitanum,  ex  una  parte, 
+et  religiosos  viros  Rjaimundumj,  venerabilem  magistrum,  et  fratres  sancte  domus 
+Hospitalis  Hierusalem  ex  altera,  coram  venerabilibus  viris  [Hevremaro],  Cesa- 
+riensi  archiepiscopo,  ,  .  abbate  S.  Samuelis  in  Accon,  et  .  .  .,  archi- 
+
+diacono  Nazareno,  judicilms  a  sede  apostolica  delegatis  super  decimis  quorumdam 
+casalium,  possessionum,  terrarum  et  aliarum  rerum,  quas  in  diocesi  Tripolitana 
+predicti  magister  et  fratres  possidere  noscuntur,  de  quibus  ad  jus  prebende  canto- 
+rie  Tripolitane  dicebamus  decimas  pertinere,  prout  in  libellis  oblatis  et  processibus 
+habitis  coram  supradictis  judicibus  et  aliis  quampluribus,  per  nos  et  predecessores 
+nostros  diversis  temporibus  a  sede  apostolica  impetratis,  plenius  continetur.  Et  pro¬ 
+curator  dicti  Hospitalis  allegaret  et  contenderet  coram  memoratis  judicibus  predic- 
+tos  magistrum  et  fratres  prescripti  Hospitalis  ad  dictarum  decimarum  prestationem 
+non  teneri,  prout  ostendebatur  per  quamdam  compositionem  diutius  habitam  inter 
+venerabilem  patrem  [Bernardum]  episcopum  et  capitulum  Tripolitanum  et  memo¬ 
+ratos  magistrum  et  fratres  sepedicti  Hospitalis  super  decimis  antedictis.  Pretextu 
+cujus  compositionis  se  esse  immunes  a  prestatione  predictarum  decimarum  assere¬ 
+bant ;  cujus  compositionis  tenor  inferius  adnotatur.  Pretendebat  etiam  procurator 
+dicti  Hospitalis  magistrum  et  fratres  Hospitalis  ejusdem  a  prestatione  hujusmodi 
+decimarum  legitima  prescriptione  munitos.  Nos  predictus  cantor,  videntes  compo¬ 
+sitionem  inferius  annotatam,  de  qua  nobis  cantori  facta  fuit  plena  fides,  et  credentes 
+eam  validam  atque  firmam,  volentes  caritatem  et  amicitiam  inter  nostram  ecclesiam 
+Tripolitanam  et  magistrum  et  fratres  Hospitalis  supradicti  servare  illesam,  propter 
+bonum  pacis  et  conCordie  confovende,  a  prefatis  litibus  et  questionibus  omnino 
+desistimus,  et  ipsis  in  totum  perpetuo  renuntiamus.  Nolentes  prefatum  magistrum 
+et  fratres  occasione  predictorum  amplius  fatigari,  immo  compositionem  infrascrip- 
+tam  approbamus  et  ratificamus.  Promittentes  magistro  et  fratribus  supradictis  bona 
+lide  quod  contra  ipsos  seu  successores  eorumdem  de  jure  vel  de  facto  super  pre- 
+d ictis  decimis,  nec  occasione  ipsarum,  nullam  questionem  sive  molestiam  per  nos 
+successoresque  nostros  de  cetero  faciemus.  Predicte  vero  compositionis  tenor  talis 
+est:  Tam  presentium  quam  futurorum  memorie commendare  opportet  quemadmo¬ 
+dum  dominus  Bernardus,  ecclesie  Tripolitane  episcopus,  et  canonici  ejusdem  eccle- 
+sie  per  ordinationem  Pontii,  episcopi  Podiensis2,  et  abbatis  S.  Felicis  de  Gerunda,  et 
+Petri  de  Podio  Laurentii,  cum  Raymundo,  patre  Iherusalem  Xenodochii,  et  suis 
+fratribus  de  negotiis  quibusdam  et  in  petitionibus  ad  concordiam  et  diffinitionem 
+devenerunt.  Predictus  etenim  Ray mundus  cum  fratribus  suis  repetebat  a  prefate 
+sedis  episcopo  et  canonicis  quasdam  donationes,  quas  dicebat  esse  factas  pauperi- 
+
+
+1.  Ce  document  dtait  scelle,  du  tempsde  S.  Pauli, 
+de  deux  sceaux  reproduits  par  lui  (Cod.  dipl*,  I,  pl-  1, 
+n0!1  2  et  3)  et  appartenant  a  Pdveque  et  au  chapitre  cie 
+Tripoli ;  le  troisiume,  celui  du  chantre,  manquait  deja 
+
+
+a  celte  epoque.  Aujourd*hui  aucun  des  sceaux  ne 
+subsiste  plus. 
+
+2.  Pons  de  Tournoo,  eveque  du  Puy  (1 105-1128), 
+
+
+70 

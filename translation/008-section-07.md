@@ -6,4 +6,4 @@ A ať nikdo z bratří, z kterékoli obedience je, nechodí kázat ani vybírat 
 
 [^k-22-2]: Kingova poznámka: Koho se myslí „Mistrem církve“, je těžké říci; zřejmě je míněn převor církve.
 
-[^n-s07-1]: Poznámka překladatele: Překládáme „Mistr kostela“, nikoli „Mistr Církve“, aby nevznikl dojem, že jde o Církev jako celek. Podle Riley-Smitha stojí v čele kněží-bratří úředník zvaný *master of the church* [@rileysmith2012hospitaller, p. 26]. Provizorní.
+[^n-s07-1]: Poznámka překladatele: Překládáme „Mistr kostela“, nikoli „Mistr Církve“, aby nevznikl dojem, že jde o Církev jako celek. Podle Riley-Smitha stojí v čele kněží-bratří úředník zvaný *master of the church* [@rileysmith2012hospitaller, p. 26]. Úřad je doložen v obou středověkých zněních: francouzsky *le maistre de l'iglise*, latinsky *magistri ecclesie* [@delavilleleroulx1894cartulaire, sv. 1, č. 70, s. 62–68]. Provizorní.

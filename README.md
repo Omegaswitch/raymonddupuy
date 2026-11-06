@@ -9,7 +9,7 @@ E. J. King, *The Rule, Statutes and Customs of the Hospitallers, 1099–1310* (L
 `source/` source description, transcription (passage IDs) · `translation/` one file per section · `research/` evidence · `glossary.md`, `decisions.md`, `bibliography.bib` · `review/` progress, issues, completeness · `book/` metadata, front/back matter, `manuscript-order.txt`, styles, fonts, `exports/` · `scripts/`.
 
 ## Status
-Complete first draft of all 20 passages; self-checked against the source (not independent review); no Czech expert review; rights unresolved; no images yet. See `review/progress.md` and `review/unresolved-issues.md`.
+Complete first draft of all 20 passages; self-checked against the source and compared article by article with the Old French and Latin texts in Delaville Le Roulx, *Cartulaire* I no. 70 (OCR, not page images); not independent review; no Czech expert review; rights: King died 1952 (secondary sources), so the English text is probably public domain in the UK/CZ since 2023 — owner decision still required; no images yet (download blocked). See `review/progress.md` and `review/unresolved-issues.md`.
 
 ## Build
 Dependencies: pandoc ≥ 3.1 (built-in citeproc), Python 3, `pip install weasyprint beautifulsoup4 pypdf python-docx fonttools` (WeasyPrint 70 used). Font: EB Garamond (SIL OFL, from npm `@fontsource/eb-garamond`, kept in `book/fonts/`).

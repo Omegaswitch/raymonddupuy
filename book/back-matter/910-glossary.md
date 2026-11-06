@@ -18,7 +18,11 @@ Výběr výrazů, které čtenáři pomohou; terminologie je provizorní tam, kd
 
 **Sergent** — podřízený služebník domu pro běžné práce (čl. 12).
 
-**Devítník** — neděle devět týdnů před Velikonocemi (Septuagesima); od ní se bratři zdržují masa (čl. 8).
+**Devítník** — neděle devět týdnů před Velikonocemi (Septuagesima, začátek „devítníkové doby“); od ní se bratři zdržují masa (čl. 8).
+
+**Ysambruns, galembruns** — druhy sukna, jež čl. 8 zakazuje; podle anglo-normanského slovníku *isembrun* = tmavě zbarvené sukno, *galebrun* = druh sukna. King vykládá „jasně barevné sukno“; v textu je ponecháno jeho znění (viz poznámku u čl. 8).
+
+**Kápě, kutna** (*chape*, lat. *cappa*) — svrchní oděv s kapucí, na němž bratři nosí kříž (čl. 19); King překládá „cassock“, odtud „kutna“ v textu.
 
 **Kompletář** — poslední denní modlitební hodinka (čl. 11); po ní se nepije a zachovává se mlčení.
 

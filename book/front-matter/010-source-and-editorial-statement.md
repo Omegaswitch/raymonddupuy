@@ -19,9 +19,10 @@ Přeloženo je celé Pravidlo (úvodní věta a články 1–19) tak, jak je u K
 - Velká písmena (Mistr, Kapitula, Špitál, Obedience apod.) sledují Kingův pravopis; v češtině jsme je ponechali u Mistra a Špitálu, kde označují instituci či úřad. Viz glosář.
 - Výrazy „blahoslavený“ u jména Raymonda a „blahoslavená“ u Marie (čl. 15) pocházejí z Kingova textu, resp. z textu Pravidla; v samotném textu Pravidla se Raymond nazývá pouze „bratr Raymond“.
 - Biblický odkaz (čl. 11) uvádí King (2 Tes 3,12); české znění verše je citováno z uvedeného vydání, nikoli z překladu Kingova textu.
+- Po dokončení překladu byl Kingův text porovnán článek po článku se starofrancouzským a latinským zněním, jak je vydal Delaville Le Roulx (*Cartulaire général* I, č. 70). Kde se Kingovo znění od nich liší nebo kde latina dodává něco, co King nepoznamenal, je to uvedeno v poznámkách překladatele; Kingův text sám jsme neměnili. Porovnání vycházelo z přepisu OCR, nikoli ze snímků stran.
 
 ## Kontrola a omezení
 
 Přepis anglického textu byl porovnán se snímky stran (OCR Internet Archive mělo na několika místech výpadky; ). Překlad prošel samostatným porovnáním se zdrojem a jazykovou úpravou, obojí však provedl tentýž překladatel (jazykový model); nejde o nezávislou odbornou recenzi. Před vydáním doporučujeme posouzení českým historikem řeholních řádů a jazykovou korekturu. Nejistoty jsou označeny v poznámkách a shrnuty v pracovních záznamech projektu (v repozitáři).
 
-**Autorská práva.** Kingův anglický překlad z roku 1934 může být v některých zemích dosud chráněn. Rozhodnutí o zveřejnění tohoto českého překladu vyžaduje posouzení práv; tento svazek nepředstavuje schválení žádnou institucí ani řádem.
+**Autorská práva.** Sir Edwin James King zemřel podle dostupných údajů 11. července 1952; je-li to správně, jeho autorská práva v Británii i v České republice (70 let po smrti) zanikla koncem roku 2022 a anglická předloha je od 1. ledna 2023 volným dílem; ve Spojených státech může být chráněna do konce roku 2029. Datum úmrtí bylo ověřeno jen z druhotných zdrojů; před vydáním je třeba je potvrdit z primárního záznamu. Tento svazek nepředstavuje schválení žádnou institucí ani řádem.
