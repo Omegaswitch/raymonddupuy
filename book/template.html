@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="$lang$">
+<head>
+<meta charset="utf-8">
+<title>$pagetitle$</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section class="title-page">
+<p class="tp-author">$author$</p>
+<h1 class="tp-title">$title$</h1>
+<p class="tp-subtitle">$subtitle$</p>
+$if(frontispiece)$<figure class="frontispiece"><img src="$frontispiece$" alt=""><figcaption>$frontispiece-caption$</figcaption></figure>$endif$
+<p class="tp-translator">Český překlad z anglického znění E. J. Kinga (1934)<br>
+<span class="tp-small">Překlad připravil jazykový model Claude. Nejde o překlad přímo z latiny ani ze staré francouzštiny. Bez odborné recenze; nejde o oficiální ani schválené vydání.</span></p>
+<p class="tp-small">Vydání pracovní · $date$</p>
+</section>
+<nav id="TOC" class="toc" role="doc-toc">
+<h1 class="toc-title">Obsah</h1>
+$table-of-contents$
+</nav>
+<main>
+$body$
+</main>
+</body>
+</html>

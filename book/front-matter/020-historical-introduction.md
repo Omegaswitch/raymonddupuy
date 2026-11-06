@@ -1,0 +1,13 @@
+# Stručný historický úvod {#historical-introduction}
+
+Jeruzalémský Špitál, jehož bratři se později stali řádem johanitů, byl ve 12. století hospicem a nemocnicí pro poutníky; o Pravidle, které je zde přeloženo, se dochovalo jen málo jistého. Tento úvod se omezuje na to, co lze o něm podle ověřených zdrojů říci, a odděluje to od sporných otázek. Gerardovo vlastní pravidlo se nedochovalo, i když jeho prvky mohly přejít do Raymondova [@rileysmith2012hospitaller, p. 24].
+
+**Autorství.** Pravidlo je připisováno Raymondu du Puy, který stál v čele Špitálu v polovině 12. století (jeho úřad se obvykle klade do let kolem 1120–1160; King pro text uvádí údaj „1120–60“). Nejpevnějším dochovaným dokladem je list papeže Lucia III. z let 1184/85, který mluví o pravidle, jež Raymond, „mistr váš“, „se společnou radou a vůlí kapituly spasitelně ustanovil“, a zmínka Alexandra III. z roku 1172 o „ustanoveních a statutech“ Gerarda a Raymonda [@rileysmith2012hospitaller, p. 24–26]. To odpovídá úvodní větě, v níž Raymond mluví „s radou celé kapituly“.
+
+**Datace.** Přesně datovat Pravidlo nelze. Podle Riley-Smitha mohlo vzniknout již ve 30. letech 12. století a nepochybně předcházelo potvrzení papežem Evženem III. (zemřel 1153); jiní badatelé kladou vznik do let 1145–1153 [@rileysmith2012hospitaller, p. 25 a pozn. 95]. King klade potvrzení Evženem III. do let 1145–53 a opětovné potvrzení Luciem III. do let 1181–85 (viz jeho poznámka u čl. 15). Dnes známé znění o devatenácti článcích je doloženo až z doby od roku 1185; původní listina se podle Riley-Smitha roku 1187 ztratila a dochovaly se překlady a opisy z roku 1185, 1206 a 1300 [@rileysmith2012hospitaller, p. 24].
+
+**Skladba textu.** Podle Riley-Smitha tvoří vlastní Pravidlo zřejmě prvních patnáct článků a poslední čtyři jsou pozdější přídavky, vzniklé nejpozději v polovině 80. let 12. století [@rileysmith2012hospitaller, p. 25]. King (pozn. k čl. 15) soudí, že čl. 15 je zakončením původního Pravidla. Za to, že čl. 16 až 19 jsou přídavky, tedy mluví shodně obě stanoviska.
+
+**Obsah.** Pravidlo nezmiňuje vojenské úkoly Špitálu a nezná pozdější správní soustavu; hovoří o chudých a nemocných, o slibech čistoty, poslušnosti a života bez vlastního majetku, o oděvu a postech, o almužnách, o kázni a trestech, o mších za zemřelé a o kříži, který bratři nosí na prsou. Kingovo tvrzení o absenci vojenských úkolů pochází z jeho předmluvy [@king1934, p. 2].
+
+**Jazyk předlohy.** Latinské znění vydal Delaville Le Roulx v prvním svazku *Cartulaire général* (1894); odkaz na dokument č. 70 uvádí pouze sekundární zdroj [@delavilleleroulx1894cartulaire; @ldysinger2010rule]. Francouzské znění, z něhož King vycházel, jsme nemohli ověřit (viz pracovní záznamy projektu v repozitáři).
